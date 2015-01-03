@@ -10,10 +10,14 @@ p {
 div {
     height: 20px;
     width: 20px;
-    background-color: #4ECDC4;
     border-radius: 3px;
+    background-color: #4ECDC4;
     display: inline-block;
     margin-left: 5px;
+}
+
+.blue {
+	background-color: blue;
 }
 
 .reset {
